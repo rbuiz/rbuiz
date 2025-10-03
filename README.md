@@ -45,11 +45,8 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <!-- Основные значки и активности, без пустых показателей -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rbuiz&show_icons=true&theme=radical&hide_title=true&hide_rank=true&hide=contribs,prs" alt="GitHub Stats" height="160"/>
-  
-  <!-- Топ языки с красивой компактной визуализацией -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuiz&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rbuiz&show_icons=true&theme=dark&hide_title=true&hide_rank=true&hide=contribs,prs" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuiz&layout=compact&theme=dark&hide_title=true" alt="Top Languages" height="160"/>
 </p>
 
 ---
