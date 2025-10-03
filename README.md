@@ -42,11 +42,11 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbuiz&show_icons=true&theme=dark&hide_title=true&hide_rank=true&hide=contribs,prs" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuiz&layout=compact&theme=dark&hide_title=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rbuiz&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuiz&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
